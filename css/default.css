@@ -25,7 +25,7 @@ a:focus {
 }
 
 #wrapper #content-wrapper {
-    background-color: #0B1622;
+    background-color: #04080c;
     width: 100%;
     overflow-x: hidden
 }
@@ -139,9 +139,9 @@ a:focus {
 }
 
 .bg-gradient-primary {
-    background-color: #6777ef;
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #6777ef), to(#303f9f));
-    background-image: linear-gradient(180deg, #6777ef 10%, #303f9f 100%);
+    background-color: #e63a3a;
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #e63a3a), to(#9f3030));
+    background-image: linear-gradient(180deg, #e63a3a 10%, #9f3030 100%);
     background-size: cover
 }
 
@@ -195,7 +195,7 @@ a:focus {
 }
 
 .bg-gradient-default {
-    background: linear-gradient(87deg, #172b4d 0, #1a174d 100%)!important
+    background: linear-gradient(87deg, #020407 0, #4d1717 100%)!important
 }
 
 .bg-gradient-login {
@@ -512,7 +512,7 @@ a:focus {
     border: 1px solid #b43434;
     padding-top: .75rem;
     padding-bottom: .75rem;
-    color: #fff
+    color: #ffffff
 }
 
 .topbar .dropdown-list .dropdown-item {
@@ -589,13 +589,13 @@ a:focus {
 }
 
 .bg-navbar {
-    background-color: #152232
+    background-color: #010102
 }
 
 .sidebar {
     min-height: 100vh;
     width: 14rem!important;
-    background-color: #152232!important;
+    background-color: #000000!important;
     -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15)!important;
     box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15)!important;
     z-index: 0
@@ -718,7 +718,7 @@ a:focus {
 
 .sidebar .nav-item .collapse .collapse-inner .collapse-item.active,
 .sidebar .nav-item .collapsing .collapse-inner .collapse-item.active {
-    color: #3a3b45;
+    color: #0f1013;
     font-weight: 800
 }
 
@@ -827,7 +827,7 @@ a:focus {
     -webkit-box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15);
     box-shadow: 0 .15rem 1.75rem 0 rgba(58, 59, 69, .15);
     border-radius: .35rem;
-    background-color: #152232;
+    background-color: #000000;
 }
 
 .sidebar.toggled .nav-item .collapsing {
@@ -1054,11 +1054,11 @@ a:focus {
 
 .sidebar-light .sidebar-brand {
     color: #d3d5f3;
-    background-color: #152232
+    background-color: #000000
 }
 
 .sidebar-light hr.sidebar-divider {
-    border-top: 1px solid #0B1622
+    border-top: 1px solid #000000
 }
 
 .sidebar-light .sidebar-heading {
@@ -1367,7 +1367,7 @@ a:focus {
 .btn-facebook.disabled,
 .btn-facebook:disabled {
     color: #fff;
-    background-color: #3b5998;
+    background-color: #983b3b;
     border-color: #fff
 }
 
@@ -1375,7 +1375,7 @@ a:focus {
 .btn-facebook:not(:disabled):not(.disabled):active,
 .show>.btn-facebook.dropdown-toggle {
     color: #fff;
-    background-color: #2d4373;
+    background-color: #983b3b;
     border-color: #dfdfdf
 }
 
@@ -1698,7 +1698,7 @@ footer.sticky-footer .copyright {
 }
 
 footer.sticky-footer .copyright a {
-    color: #455a64
+    color: #090a0a
 }
 
 footer.sticky-footer .copyright a:hover {
@@ -1764,7 +1764,7 @@ body.sidebar-toggled footer.sticky-footer {
 }
 
 .btn-outline-light {
-    color: #373840
+    color: #0f0f0f
 }
 
 .card {
